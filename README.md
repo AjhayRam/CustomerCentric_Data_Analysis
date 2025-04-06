@@ -2,13 +2,11 @@
 
 This project transforms a **transactional dataset** into a **customer-centric analytical model** using clustering and segmentation techniques. The goal is to uncover meaningful insights into customer behavior to aid strategic decision-making in marketing and operations.
 
----
 
 ## Objective
 
 To group customers based on behavioral patterns like spending, recency, and frequency using **unsupervised machine learning**, enabling businesses to create personalized experiences.
 
----
 
 ##  Dataset Overview
 
@@ -18,7 +16,6 @@ To group customers based on behavioral patterns like spending, recency, and freq
 - **Derived Metrics:**  
   `TotalSpent`, `Recency`, `Frequency`, `Monetary`, `Trend Slope`
 
----
 
 ## Project Pipeline
 
@@ -47,15 +44,11 @@ To group customers based on behavioral patterns like spending, recency, and freq
   - At-Risk Customers
 - Visualized segments and behavior
 
----
-
 ## Technologies Used
 
 - Python 3.x  
 - Libraries:  
   `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `yellowbrick`, `scipy`
-
----
 
 ## Key Results
 
@@ -67,8 +60,6 @@ To group customers based on behavioral patterns like spending, recency, and freq
   - Loyalty programs
   - Re-targeting ads
   - Promotions and offers
-
----
 
 ## Future Improvements
 
